@@ -7,7 +7,7 @@ Dashboards com ênfase em práticas utilizando o Power BI, com o objetivo de des
   Neste dashboard foi feito a analise da comparação das vendas do ano atual com as vendas do ano anterior, o crescimento anual das vendas, as vendas por categoria, os dados de vendas 
   orçadas junto com a porcentagem de variação do orçamento. Foi usado tambem o DAX para criar colunas personalizadas
 
-[neste link](https://www.youtube.com/watch?v=X7DsnK5bD-0&t=451s)
+  *Video base para o estudo [link](https://www.youtube.com/watch?v=X7DsnK5bD-0&t=451s)
 
 
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiNDdlZTBlNjYtMjcyZS00ZTA4LTlkZTEtYWEwMmIxNzRkZTE5IiwidCI6ImNlNDMwZWIwLWRmZDAtNDc4NC04MGM3LWQwYjY3NTVjOThlMiJ9)
+Acesse o dashboard completo [link](https://app.powerbi.com/view?r=eyJrIjoiNDdlZTBlNjYtMjcyZS00ZTA4LTlkZTEtYWEwMmIxNzRkZTE5IiwidCI6ImNlNDMwZWIwLWRmZDAtNDc4NC04MGM3LWQwYjY3NTVjOThlMiJ9)
