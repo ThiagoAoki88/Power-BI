@@ -12,7 +12,7 @@ Dashboards com ênfase em práticas utilizando o Power BI, com o objetivo de des
      Acesse o dashboard completo [link](https://app.powerbi.com/view?r=eyJrIjoiNDdlZTBlNjYtMjcyZS00ZTA4LTlkZTEtYWEwMmIxNzRkZTE5IiwidCI6ImNlNDMwZWIwLWRmZDAtNDc4NC04MGM3LWQwYjY3NTVjOThlMiJ9)
 
 
-  - [Dashboard de Analise de receita de um hotel]()
+- [Dashboard de Analise de receita de um hotel]()
     --- 
 
     *Video base para o estudo [link](https://www.youtube.com/watch?v=S2zBHmkRbhY&list=PLc1ZotvmikiOlQy_zT88AyeCFDYLr0ljN&index=7&t=85s)
